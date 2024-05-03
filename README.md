@@ -1,8 +1,8 @@
 # Codeforces Stat Visualization
 
 <a href="https://github.com/ramim141/cf-stats">
-<img src="https://raw.githubusercontent.com/ramim-ahmed/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/ramim-ahmed/cf-stats/main/output/light_card.svg" />
+<img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/ramim141/cf-stats/main/output/light_card.svg" />
 </a>
 <br/>
 <a href="https://github.com/ramim141/cf-stats">
